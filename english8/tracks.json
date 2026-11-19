@@ -1,0 +1,134 @@
+[
+ {
+  "n": 1,
+  "title": "Arriving at JFK",
+  "file": "track01.mp3",
+  "seconds": 41.1
+ },
+ {
+  "n": 2,
+  "title": "British or American?",
+  "file": "track02.mp3",
+  "seconds": 31.2
+ },
+ {
+  "n": 3,
+  "title": "Test Unit 1",
+  "file": "track03.mp3",
+  "seconds": 27.2
+ },
+ {
+  "n": 4,
+  "title": "Camille's New Orleans",
+  "file": "track04.mp3",
+  "seconds": 45.4
+ },
+ {
+  "n": 5,
+  "title": "Hurricane Katrina",
+  "file": "track05.mp3",
+  "seconds": 34.6
+ },
+ {
+  "n": 6,
+  "title": "Test Unit 2",
+  "file": "track06.mp3",
+  "seconds": 25.7
+ },
+ {
+  "n": 7,
+  "title": "Ben's bad day in L.A.",
+  "file": "track07.mp3",
+  "seconds": 31.0
+ },
+ {
+  "n": 8,
+  "title": "Fire season",
+  "file": "track08.mp3",
+  "seconds": 31.6
+ },
+ {
+  "n": 9,
+  "title": "Test Unit 3",
+  "file": "track09.mp3",
+  "seconds": 26.2
+ },
+ {
+  "n": 10,
+  "title": "Meeting Sarah",
+  "file": "track10.mp3",
+  "seconds": 39.9
+ },
+ {
+  "n": 11,
+  "title": "The Black Hills",
+  "file": "track11.mp3",
+  "seconds": 42.9
+ },
+ {
+  "n": 12,
+  "title": "Test Unit 4",
+  "file": "track12.mp3",
+  "seconds": 28.3
+ },
+ {
+  "n": 13,
+  "title": "The school counselor's talk",
+  "file": "track13.mp3",
+  "seconds": 30.3
+ },
+ {
+  "n": 14,
+  "title": "Jayden's video",
+  "file": "track14.mp3",
+  "seconds": 36.6
+ },
+ {
+  "n": 15,
+  "title": "Test Unit 5",
+  "file": "track15.mp3",
+  "seconds": 27.8
+ },
+ {
+  "n": 16,
+  "title": "Planning the road trip",
+  "file": "track16.mp3",
+  "seconds": 35.4
+ },
+ {
+  "n": 17,
+  "title": "Breakdown in Arizona",
+  "file": "track17.mp3",
+  "seconds": 35.8
+ },
+ {
+  "n": 18,
+  "title": "Test Unit 6",
+  "file": "track18.mp3",
+  "seconds": 31.4
+ },
+ {
+  "n": 19,
+  "title": "VERA practice 1: Radio announcements",
+  "file": "track19.mp3",
+  "seconds": 43.5
+ },
+ {
+  "n": 20,
+  "title": "VERA practice 2: A summer job",
+  "file": "track20.mp3",
+  "seconds": 40.0
+ },
+ {
+  "n": 21,
+  "title": "VERA practice 3: Probetest",
+  "file": "track21.mp3",
+  "seconds": 51.1
+ },
+ {
+  "n": 22,
+  "title": "Final test: Radio show – Teens around the world",
+  "file": "track22.mp3",
+  "seconds": 48.3
+ }
+]

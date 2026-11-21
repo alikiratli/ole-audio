@@ -13,140 +13,194 @@
  },
  {
   "n": 3,
-  "title": "Test Unit 1",
+  "title": "Training: Holiday stories",
   "file": "track03.mp3",
-  "seconds": 20.4
+  "seconds": 54.5
  },
  {
   "n": 4,
-  "title": "Leon's holiday disaster",
+  "title": "Test Unit 1",
   "file": "track04.mp3",
-  "seconds": 37.5
+  "seconds": 20.3
  },
  {
   "n": 5,
-  "title": "Did you have a good time?",
+  "title": "Leon's holiday disaster",
   "file": "track05.mp3",
-  "seconds": 29.8
+  "seconds": 37.6
  },
  {
   "n": 6,
-  "title": "Test Unit 2",
+  "title": "Did you have a good time?",
   "file": "track06.mp3",
-  "seconds": 20.2
+  "seconds": 29.7
  },
  {
   "n": 7,
-  "title": "Excuse me, how do I get to …?",
+  "title": "Training: At the lost property office",
   "file": "track07.mp3",
-  "seconds": 26.1
+  "seconds": 59.8
  },
  {
   "n": 8,
-  "title": "A day in London",
+  "title": "Test Unit 2",
   "file": "track08.mp3",
-  "seconds": 34.0
+  "seconds": 20.3
  },
  {
   "n": 9,
-  "title": "Test Unit 3",
+  "title": "Excuse me, how do I get to …?",
   "file": "track09.mp3",
-  "seconds": 21.2
+  "seconds": 26.1
  },
  {
   "n": 10,
-  "title": "Planning the school fair",
+  "title": "A day in London",
   "file": "track10.mp3",
-  "seconds": 35.4
+  "seconds": 34.0
  },
  {
   "n": 11,
-  "title": "What will the future be like?",
+  "title": "Training: On the Underground",
   "file": "track11.mp3",
-  "seconds": 29.6
+  "seconds": 60.9
  },
  {
   "n": 12,
-  "title": "Test Unit 4",
+  "title": "Test Unit 3",
   "file": "track12.mp3",
-  "seconds": 19.6
+  "seconds": 21.2
  },
  {
   "n": 13,
-  "title": "First day at the animal shelter",
+  "title": "Planning the school fair",
   "file": "track13.mp3",
-  "seconds": 31.4
+  "seconds": 35.6
  },
  {
   "n": 14,
-  "title": "Who does the housework?",
+  "title": "What will the future be like?",
   "file": "track14.mp3",
-  "seconds": 32.5
+  "seconds": 29.7
  },
  {
   "n": 15,
-  "title": "Test Unit 5",
+  "title": "Training: Careers day at Park School",
   "file": "track15.mp3",
-  "seconds": 25.4
+  "seconds": 53.5
  },
  {
   "n": 16,
-  "title": "Have you ever …?",
+  "title": "Test Unit 4",
   "file": "track16.mp3",
-  "seconds": 26.9
+  "seconds": 19.7
  },
  {
   "n": 17,
-  "title": "Packing for the trip",
+  "title": "First day at the animal shelter",
   "file": "track17.mp3",
-  "seconds": 26.9
+  "seconds": 31.5
  },
  {
   "n": 18,
-  "title": "Test Unit 6",
+  "title": "Who does the housework?",
   "file": "track18.mp3",
-  "seconds": 21.9
+  "seconds": 32.5
  },
  {
   "n": 19,
-  "title": "Where were you at four o'clock?",
+  "title": "Training: Rules at Happy Paws",
   "file": "track19.mp3",
-  "seconds": 41.5
+  "seconds": 45.2
  },
  {
   "n": 20,
-  "title": "The solution",
+  "title": "Test Unit 5",
   "file": "track20.mp3",
-  "seconds": 35.8
+  "seconds": 25.4
  },
  {
   "n": 21,
-  "title": "Test Unit 7",
+  "title": "Have you ever …?",
   "file": "track21.mp3",
-  "seconds": 20.9
+  "seconds": 27.0
  },
  {
   "n": 22,
-  "title": "Bonfire Night",
+  "title": "Packing for the trip",
   "file": "track22.mp3",
-  "seconds": 32.1
+  "seconds": 27.0
  },
  {
   "n": 23,
-  "title": "Who invited whom?",
+  "title": "Training: A ranger's safety talk",
   "file": "track23.mp3",
-  "seconds": 27.2
+  "seconds": 49.7
  },
  {
   "n": 24,
-  "title": "Test Unit 8",
+  "title": "Test Unit 6",
   "file": "track24.mp3",
-  "seconds": 23.7
+  "seconds": 22.1
  },
  {
   "n": 25,
-  "title": "Final test: The new student",
+  "title": "Where were you at four o'clock?",
   "file": "track25.mp3",
-  "seconds": 43.5
+  "seconds": 41.7
+ },
+ {
+  "n": 26,
+  "title": "The solution",
+  "file": "track26.mp3",
+  "seconds": 36.1
+ },
+ {
+  "n": 27,
+  "title": "Training: Who took the cake?",
+  "file": "track27.mp3",
+  "seconds": 55.2
+ },
+ {
+  "n": 28,
+  "title": "Test Unit 7",
+  "file": "track28.mp3",
+  "seconds": 21.0
+ },
+ {
+  "n": 29,
+  "title": "Bonfire Night",
+  "file": "track29.mp3",
+  "seconds": 32.0
+ },
+ {
+  "n": 30,
+  "title": "Who invited whom?",
+  "file": "track30.mp3",
+  "seconds": 26.9
+ },
+ {
+  "n": 31,
+  "title": "Training: Plans for the end-of-year party",
+  "file": "track31.mp3",
+  "seconds": 57.6
+ },
+ {
+  "n": 32,
+  "title": "Test Unit 8",
+  "file": "track32.mp3",
+  "seconds": 23.7
+ },
+ {
+  "n": 33,
+  "title": "Test A: A trip to Bath",
+  "file": "track33.mp3",
+  "seconds": 57.1
+ },
+ {
+  "n": 34,
+  "title": "Test B: The new student",
+  "file": "track34.mp3",
+  "seconds": 43.4
  }
 ]

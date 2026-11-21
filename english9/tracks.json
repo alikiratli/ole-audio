@@ -13,104 +13,146 @@
  },
  {
   "n": 3,
-  "title": "Test Unit 1",
+  "title": "Training: Growing up in the Outback",
   "file": "track03.mp3",
-  "seconds": 27.4
+  "seconds": 94.9
  },
  {
   "n": 4,
-  "title": "Kia ora from Auckland",
+  "title": "Test Unit 1",
   "file": "track04.mp3",
-  "seconds": 42.7
+  "seconds": 27.3
  },
  {
   "n": 5,
-  "title": "Saving the kiwi",
+  "title": "Kia ora from Auckland",
   "file": "track05.mp3",
-  "seconds": 47.7
+  "seconds": 42.8
  },
  {
   "n": 6,
-  "title": "Test Unit 2",
+  "title": "Saving the kiwi",
   "file": "track06.mp3",
-  "seconds": 30.0
+  "seconds": 47.6
  },
  {
   "n": 7,
-  "title": "Grandad's story",
+  "title": "Training: Bungee jumping in Queenstown",
   "file": "track07.mp3",
-  "seconds": 49.5
+  "seconds": 84.6
  },
  {
   "n": 8,
-  "title": "New jobs on the Tyne",
+  "title": "Test Unit 2",
   "file": "track08.mp3",
-  "seconds": 38.8
+  "seconds": 30.0
  },
  {
   "n": 9,
-  "title": "Test Unit 3",
+  "title": "Grandad's story",
   "file": "track09.mp3",
-  "seconds": 28.4
+  "seconds": 49.5
  },
  {
   "n": 10,
-  "title": "Leon's first day of work experience",
+  "title": "New jobs on the Tyne",
   "file": "track10.mp3",
-  "seconds": 29.9
+  "seconds": 38.8
  },
  {
   "n": 11,
-  "title": "Where will we be in ten years?",
+  "title": "Training: A visit to Beamish Museum",
   "file": "track11.mp3",
-  "seconds": 32.3
+  "seconds": 95.0
  },
  {
   "n": 12,
-  "title": "Test Unit 4",
+  "title": "Test Unit 3",
   "file": "track12.mp3",
-  "seconds": 41.7
+  "seconds": 28.4
  },
  {
   "n": 13,
-  "title": "Ben's online girlfriend",
+  "title": "Leon's first day of work experience",
   "file": "track13.mp3",
-  "seconds": 35.3
+  "seconds": 30.1
  },
  {
   "n": 14,
-  "title": "What happened to Ben",
+  "title": "Where will we be in ten years?",
   "file": "track14.mp3",
-  "seconds": 34.0
+  "seconds": 32.4
  },
  {
   "n": 15,
-  "title": "Test Unit 5",
+  "title": "Training: A job interview at a café",
   "file": "track15.mp3",
-  "seconds": 26.2
+  "seconds": 97.7
  },
  {
   "n": 16,
-  "title": "Grand Canyon",
+  "title": "Test Unit 4",
   "file": "track16.mp3",
-  "seconds": 38.0
+  "seconds": 41.8
  },
  {
   "n": 17,
-  "title": "The code talkers",
+  "title": "Ben's online girlfriend",
   "file": "track17.mp3",
-  "seconds": 44.3
+  "seconds": 35.4
  },
  {
   "n": 18,
-  "title": "Test Unit 6",
+  "title": "What happened to Ben",
   "file": "track18.mp3",
-  "seconds": 26.5
+  "seconds": 34.0
  },
  {
   "n": 19,
-  "title": "Final test: Interview – A gap year in Australia",
+  "title": "Training: Podcast – staying safe online",
   "file": "track19.mp3",
-  "seconds": 58.4
+  "seconds": 107.5
+ },
+ {
+  "n": 20,
+  "title": "Test Unit 5",
+  "file": "track20.mp3",
+  "seconds": 26.1
+ },
+ {
+  "n": 21,
+  "title": "Grand Canyon",
+  "file": "track21.mp3",
+  "seconds": 38.1
+ },
+ {
+  "n": 22,
+  "title": "The code talkers",
+  "file": "track22.mp3",
+  "seconds": 44.4
+ },
+ {
+  "n": 23,
+  "title": "Training: Día de los Muertos in Tucson",
+  "file": "track23.mp3",
+  "seconds": 105.8
+ },
+ {
+  "n": 24,
+  "title": "Test Unit 6",
+  "file": "track24.mp3",
+  "seconds": 26.7
+ },
+ {
+  "n": 25,
+  "title": "Test A: An exchange year in Wellington",
+  "file": "track25.mp3",
+  "seconds": 94.5
+ },
+ {
+  "n": 26,
+  "title": "Test B: Interview – A gap year in Australia",
+  "file": "track26.mp3",
+  "seconds": 85.2
  }
 ]
